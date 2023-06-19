@@ -1,0 +1,13 @@
+Bank account added to your account
+You've added a card to your account
+Confirm your debit or credit card
+Your card information has been updated
+You've changed your address
+Receipt for Your Payment
+Reminder to confirm your debit or credit card
+Your credit card is now confirmed
+Your debit card is now confirmed
+Your bank account is now confirmed
+Your bank account information has been updated
+New email address added to your account
+Verification to reset your account
